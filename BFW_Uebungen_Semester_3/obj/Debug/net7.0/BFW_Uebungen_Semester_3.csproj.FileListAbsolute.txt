@@ -1,0 +1,15 @@
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/bin/Debug/net7.0/BFW_Uebungen_Semester_3
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/bin/Debug/net7.0/BFW_Uebungen_Semester_3.deps.json
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/bin/Debug/net7.0/BFW_Uebungen_Semester_3.runtimeconfig.json
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/bin/Debug/net7.0/BFW_Uebungen_Semester_3.dll
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/bin/Debug/net7.0/BFW_Uebungen_Semester_3.pdb
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/obj/Debug/net7.0/BFW_Uebungen_Semester_3.csproj.AssemblyReference.cache
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/obj/Debug/net7.0/BFW_Uebungen_Semester_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/obj/Debug/net7.0/BFW_Uebungen_Semester_3.AssemblyInfoInputs.cache
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/obj/Debug/net7.0/BFW_Uebungen_Semester_3.AssemblyInfo.cs
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/obj/Debug/net7.0/BFW_Uebungen_Semester_3.csproj.CoreCompileInputs.cache
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/obj/Debug/net7.0/BFW_Uebungen_Semester_3.dll
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/obj/Debug/net7.0/refint/BFW_Uebungen_Semester_3.dll
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/obj/Debug/net7.0/BFW_Uebungen_Semester_3.pdb
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/obj/Debug/net7.0/BFW_Uebungen_Semester_3.genruntimeconfig.cache
+/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/obj/Debug/net7.0/ref/BFW_Uebungen_Semester_3.dll
