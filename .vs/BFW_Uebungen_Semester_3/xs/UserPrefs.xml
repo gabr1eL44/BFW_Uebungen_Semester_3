@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{F9E7C27E-E621-4833-8460-F5F68102091E}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BFW_Uebungen_Semester_3/A1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BFW_Uebungen_Semester_3/Program.cs">
     <Files>
-      <File FileName="BFW_Uebungen_Semester_3/Program.cs" />
+      <File FileName="BFW_Uebungen_Semester_3/Program.cs" Line="1" Column="1" />
       <File FileName="BFW_Uebungen_Semester_3/A1.cs" Line="1" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BFW_Uebungen_Semester_3" expanded="True" selected="True">
-            <Node name="BFW_Uebungen_Semester_3" expanded="True" />
+          <Node name="BFW_Uebungen_Semester_3" expanded="True">
+            <Node name="BFW_Uebungen_Semester_3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
