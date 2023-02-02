@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TUYpdS7zYYP5N7ipX5/eQlqsfGXs7Vg/xbQvbTNAGYYxhFqQRbag1guI+PJhFmTJRW5txqAuLmRShTO7DJWNKA==",
+  "dgSpecHash": "QPSfb3dj+egDFSJnrcDxz0RHwzSDJ9X8/F33BpISFkldJyw0P/Xg9pV8/7wkUOFmBytgRBPBE2NHc/qHu2kJTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stefan.Karl-1\\source\\repos\\BFW_Uebungen_Semester_3\\BFW_Uebungen_Semester_3\\BFW_Uebungen_Semester_3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/stefan/Projects/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3/BFW_Uebungen_Semester_3.csproj",
+  "expectedPackageFiles": [
+    "/Users/stefan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/stefan/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/stefan/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

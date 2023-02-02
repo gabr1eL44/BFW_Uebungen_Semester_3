@@ -1,26 +1,24 @@
 ﻿<Properties StartupConfiguration="{F9E7C27E-E621-4833-8460-F5F68102091E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BFW_Uebungen_Semester_3/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.BFW__Uebungen__Semester__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BFW_Uebungen_Semester_3/A1.cs">
     <Files>
-      <File FileName="BFW_Uebungen_Semester_3/Program.cs" Line="1" Column="1" />
-      <File FileName="BFW_Uebungen_Semester_3/A1.cs" Line="1" Column="14" />
+      <File FileName="BFW_Uebungen_Semester_3/Program.cs" />
+      <File FileName="BFW_Uebungen_Semester_3/A1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BFW_Uebungen_Semester_3" expanded="True">
-            <Node name="BFW_Uebungen_Semester_3" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="BFW_Uebungen_Semester_3" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.BFW__Uebungen__Semester__3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
